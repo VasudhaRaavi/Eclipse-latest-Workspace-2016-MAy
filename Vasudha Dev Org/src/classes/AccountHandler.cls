@@ -1,5 +1,5 @@
 public class AccountHandler {
-	// Creation of account 123rdtrxzrtzsr
+	// Creation of account 123rdtrxzrtzsrdd
     public static Account insertNewAccount(String accountName) {
         try {
             Account acct = new Account(Name = accountName);
